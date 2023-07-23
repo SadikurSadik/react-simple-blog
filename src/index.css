@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blog {
+  max-width: 380px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.blog figure {
+  height: 199px;
+}
